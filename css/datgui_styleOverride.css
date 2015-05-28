@@ -20,7 +20,7 @@
 }
 
 .dg.main::-webkit-scrollbar-thumb {
-    background: #bbb;
+    background: #bbb; 
 }
 
 .dg li:not(.folder) {
